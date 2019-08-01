@@ -6,8 +6,8 @@ public class Start {
 	public static void main(String[] args) {
 		
 //		System.out.println("Сумма = " + strt(10, 3, 5,7));
-		JeckaProject jp = new JeckaProject();
-		//jp.recursionFucn(3);
+		//JeckaProject jp = new JeckaProject();
+		//jp.febonachi();
 		
 	}
 
